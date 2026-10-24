@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525263145004",
+    "project_id": "quick-commerce-app-3e866",
+    "storage_bucket": "quick-commerce-app-3e866.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525263145004:android:b70c62c82c8dab6d9b6989",
+        "android_client_info": {
+          "package_name": "com.anonymous.gramofast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525263145004-auv18cf4oj83decpom3397dugeojv52j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.gramofast",
+            "certificate_hash": "35b7e5dd4b4606d53e0fc8c89b2c8ced16525ed3"
+          }
+        },
+        {
+          "client_id": "525263145004-la2ss5fa4udn6j0h9l434idva00mcq1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAABsPNHWbAuavVSp_1lFPd2p0BzXWW-5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525263145004-la2ss5fa4udn6j0h9l434idva00mcq1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
